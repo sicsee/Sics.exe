@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-stroke: #314158;
+  --color-for: #f8fafc;
+  --color-for2: #90a1b9;
+  --color-for3: #ffa1ad;
+  --color-hover-fore: #ffccd2;
+  --color-drop: #020618;
+  --color-ground: #0f172b;
+  --color-laranja: #ffb86a;
+  --default-font-family: "Fira Code", monospace;
+}
