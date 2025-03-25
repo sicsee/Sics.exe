@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header className="w-full flex items-stretch h-14 text-for2 border-y border-stroke justify-between">
       <div className="flex items-center w-full gap-24">
-        <h1 className="ml-6 flex items-center text-sm md:text-md">
+        <h1 className="ml-7 flex items-center text-sm md:text-md">
           nicolas-david
         </h1>
 

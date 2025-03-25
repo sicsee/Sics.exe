@@ -7,7 +7,7 @@ export default function Home() {
     <section className="w-full min-h-screen bg-ground">
       <Header />
 
-      <main className="flex flex-col md:flex-row items-center justify-center py-12 px-6 lg:px-24 transition-all ease-initial">
+      <main className="flex flex-col md:flex-row items-center justify-center py-12 px-6 lg:px-24 transition-all ease-initial overflow-hidden">
         <section className="flex flex-col items-center lg:items-start lg:mb-0 lg:w-1/2 mt-20">
           <div className="flex flex-col mb-8">
             <p className="text-for2 text-lg">Hi all, I am</p>

@@ -3,10 +3,10 @@ import Github from "../../public/github.svg";
 
 export default function Footer() {
   return (
-    <footer className="w-full h-14 bg-ground text-for2 absolute bottom-0 border-t-2 border-stroke flex items-stretch justify-between px-3">
+    <footer className="w-full h-14 bg-ground text-for2 absolute bottom-0 border-t border-stroke flex items-stretch justify-between px-3">
       <div className="flex items-center">
         <span>Find me in:</span>
-        <div className="border-x-2 border-stroke h-full px-2 ml-4">
+        <div className="border-x border-stroke h-full px-2 ml-4">
           <a
             href="https://www.instagram.com/_nicolasds_/"
             target="_blank"
